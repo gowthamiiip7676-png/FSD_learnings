@@ -46,21 +46,5 @@ Learned:
 - Writing and editing code.
 - Running and testing web pages.
 
-## 🔗 Full Stack Development Workflow
 
-```text
-        User
-          ↓
-      Frontend
-   (HTML, CSS, JS)
-          ↓
-       Backend
-       (Server)
-          ↓
-       Database
-          ↓
-       Backend
-          ↓
-      Frontend
-          ↓
-        User
+      
